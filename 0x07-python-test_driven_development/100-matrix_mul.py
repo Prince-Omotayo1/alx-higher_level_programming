@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 # 100-matrix_mul.py
-# Igbokoyi Quadri
 """Defines a matrix multiplication function."""
 
 
